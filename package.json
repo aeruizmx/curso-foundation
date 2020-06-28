@@ -1,0 +1,22 @@
+{
+  "name": "curso-foundation",
+  "version": "1.0.0",
+  "description": "Curso del framework Foudation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres87mx/curso-foundation.git"
+  },
+  "author": "aeruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andres87mx/curso-foundation/issues"
+  },
+  "homepage": "https://github.com/andres87mx/curso-foundation#readme",
+  "dependencies": {
+    "foundation-sites": "^6.6.3"
+  }
+}
